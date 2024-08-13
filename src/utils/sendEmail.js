@@ -6,7 +6,7 @@ let transporterInfo = {
   secure: false,
   auth: {
     user: "lazyfox916@gmail.com",
-    pass: "qnvb msso uhyw gglm",
+    pass: "**** **** **** ****",
   },
 };
 
